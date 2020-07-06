@@ -1,2 +1,2 @@
 # GitHub-Basic
-This respository conatins basic of GitHub
+This respository contains basic of GitHub
